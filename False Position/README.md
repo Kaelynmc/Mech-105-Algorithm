@@ -1,6 +1,6 @@
 # False Position # 
 
-False position estimates the root of a given function. The script will check the data to ensure the inputs bracket the root. Then loops throught he false position function until the root is within the stopping criteria.  
+False position estimates the root of a given function. The script will check the data to ensure the inputs bracket the root. Then loops through the false position function until the root is within the stopping criteria.  
 
 
 INPUTS 
