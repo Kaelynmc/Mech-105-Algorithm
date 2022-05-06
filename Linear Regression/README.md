@@ -1,6 +1,6 @@
 # Linear Regression Algoritm #
 
-Algorithm will filter outliers, compute the linear regression of the new set of points, and compute the corresponding R^2 value 
+Algorithm will filter outliers, compute the linear regression of the new set of points, and compute the corresponding R^2 value. The main part of this script is defining what each variable is. From there, plugging those into equations to get the R^2 value of a function. 
 
 INPUTS 
  * x= x-values for our data set
