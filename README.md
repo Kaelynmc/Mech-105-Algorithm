@@ -1,4 +1,4 @@
-# Mech-105-Algorithm
+# Mech-105-Algorithms 
 Algorithms created for Mech 105 at CSU-- 2022
 
 
